@@ -1,6 +1,7 @@
 """
 QOTW #3
-Andrew Bowen"""
+Andrew Bowen
+"""
 
 ### 1
 animals = ['cat', 'dog', 'manta ray', 'horse', 'crouching tiger']
