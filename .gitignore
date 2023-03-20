@@ -128,5 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-data/electric_vehicle_wa.csv
+data/electric_vehicles_wa.csv
